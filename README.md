@@ -1,11 +1,16 @@
-# Exercise-05c-LightsAndMaterials
+# Exercise-05D-EnemiesAndNavMeshes
+
 
 
 ## Implementation
+
+Added enemy movement plus the ability to delete enemy
 
 ## References
 
 ## Future Development
 
 ## Created by
-Nathan Mishler
+
+Michelle Garcia 
+
